@@ -8,4 +8,4 @@ Outside of code, I co-founded a community NGO back home, play football, I take p
 
 📫 Find me on LinkedIn or check out what I've been building below.
 
-Web-portfolio: ariq100.vercel.app/
+💾 Web-portfolio: [ariq100.vercel.app](https://ariq100.vercel.app/)
